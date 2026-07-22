@@ -1,2 +1,2 @@
 # CALCULADORITA
-Activate archivo Readme
+4 operaciones de la calculadora de AMIRA GOMEZ
